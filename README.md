@@ -10,8 +10,13 @@ Test_Execution_Report
 Test_Data
 Bug 
 report
-roject Explanation Video
-[Click here to watch the video](https://drive.google.com/file/d/1cL2EFwWwCfjxkBSzz74T_6YdTMW6EVwM/view?usp=sharing)
+
+project Explanation Video
+[Click here to watch the video]
+
+(https://drive.google.com/file/d/1cL2EFwWwCfjxkBSzz74T_6YdTMW6EVwM/view?usp=sharing)
+
+
 Test Scenarios:
 High-level testing scenarios that provide an overview of the applications functional coverage.
 
